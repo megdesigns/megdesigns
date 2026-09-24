@@ -24,6 +24,6 @@
 
 ### How I work
 
-`Figma` → `Claude Code` → `Netlify / Vercel`
+`Figma` → `Claude Code` → `Codex` → `Netlify / Vercel`
 
 I start with the problem and the design, then pair with AI to build it.
