@@ -26,4 +26,4 @@
 
 `Figma` → `Claude Code` → `Netlify / Vercel`
 
-I start with the problem and the design, then pair with AI to build it. Where a repo is public, I leave the AI workflow in it on purpose (prompts, `CLAUDE.md`, co-authored commits) so you can see how it was made.
+I start with the problem and the design, then pair with AI to build it.
